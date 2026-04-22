@@ -92,7 +92,7 @@ Make sure the **Game Assets/** folder contains:
 
 ## 📸 Preview
 
-<img width="2560" height="2560" alt="Game Preview" src="https://github.com/user-attachments/assets/6e25ba42-9045-44f5-a135-0ba8cea15094" />
+<img width="2560" height="2560" alt="Game Background" src="https://github.com/user-attachments/assets/c81169cb-2f70-4b9a-9df8-225fd04117eb" />
 
 
 ---
